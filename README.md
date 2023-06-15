@@ -1,2 +1,2 @@
-# striver_sde-sheet
+# Striver's SDE Sheet
 Posting attempted solutions to Striver's SDE Sheet ...
